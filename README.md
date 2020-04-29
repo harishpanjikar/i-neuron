@@ -14,5 +14,6 @@ I have also solved various problems of extracting a perticular pattern by using 
 the code also comprises of working on problems using functions, classes and inheritence of classes.
 i have written a code to solve a problem using map function
 
-
+Assignment 3 
+Assignment 3 includes the study of exception handling, for loops and also one question based on numpy function to get the desired matrix.
 
